@@ -31,18 +31,23 @@
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vimalfalcon3105&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vimalfalcon3105&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalfalcon3105&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalfalcon3105&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 💻 Primary Stack
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalfalcon3105&theme=tokyonight"/>
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/MySQL-Advanced-orange?style=for-the-badge&logo=mysql"/>
+
 </p>
 
 ---
@@ -50,14 +55,6 @@
 ## 📈 Contribution Graph
 
 [![Vimal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vimalfalcon3105&theme=tokyo-night)](https://github.com/vimalfalcon3105)
-
----
-
-## ⚡ Core Skills
-
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi)
 
 ---
 
