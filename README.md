@@ -2,9 +2,9 @@
 
 # Hi 👋 I'm Vimal
 
-### 🚀 Full Stack Developer | FastAPI • React • AI Enthusiast
+### 🚀 Full Stack Developer | FastAPI • React • AI Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;AI+Chatbot+Developer;FastAPI+%7C+React+%7C+Qdrant;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;AI+Chatbot+Developer;FastAPI+%7C+React+%7C+Qdrant;Always+Learning+New+Things"/>
 
 </div>
 
@@ -12,9 +12,9 @@
 
 ## 💫 About Me
 
-- 🔭 Working on AI-powered applications  
-- 🌱 Learning Semantic Search and Vector Databases  
-- ⚡ Building APIs with FastAPI and React  
+- 🔭 Building AI-powered applications  
+- 🌱 Exploring Semantic Search & Vector Databases  
+- ⚡ Developing APIs with FastAPI and React  
 - 💬 Ask me about Python, Docker, MySQL
 
 ---
@@ -27,13 +27,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vimalfalcon3105&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalfalcon3105&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalfalcon3105&layout=compact&langs_count=8&theme=tokyonight&hide=html,css"/>
 
 </p>
 
@@ -47,19 +47,32 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vimalfalcon3105&theme=algolia&no-frame=true&row=1"/>
-</p>
+[![Vimal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vimalfalcon3105&theme=tokyo-night)](https://github.com/vimalfalcon3105)
+
+---
+
+## ⚡ Core Skills
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi)
 
 ---
 
 ## 🌐 Connect
 
-- LinkedIn: Add your link  
-- Portfolio: Add your link
+<p align="center">
+<a href="https://linkedin.com/in/YOURPROFILE">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
+<div align="center">
+
 ### ✨ Turning Ideas into Intelligent Products
+
+</div>
