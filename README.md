@@ -57,7 +57,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vimalfalcon3105&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamvimal-r&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -66,9 +66,9 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vimalfalcon3105&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamvimal-r&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalfalcon3105&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvimal-r&theme=tokyonight"/>
 
 </p>
 
@@ -77,7 +77,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimalfalcon3105&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvimal-r&theme=tokyo-night"/>
 </p>
 
 ---
