@@ -1,14 +1,26 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamvimal-r/iamvimal-r/main/banner.png" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm Vimal
 
-### 🚀 Full Stack Developer | Laravel • CodeIgniter • FastAPI • React • AI
+### 🚀 Full Stack Developer | AI Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=F700FF&center=true&vCenter=true&width=750&lines=Laravel+%7C+CodeIgniter+Expert;AI+Application+Builder;FastAPI+%7C+React+Developer;Building+Scalable+Systems;Always+Learning+🚀"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=FastAPI+%7C+React+Developer;Laravel+Backend+Expert;AI+%2B+Vector+Search+Builder;Scalable+System+Architect;Always+Learning+🚀"/>
+</p>
 
----
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=iamvimal-r&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=vimalfalcon3105&label=Profile%20Views&color=brightgreen&style=flat-square" />
+<p align="center">
+<img src="https://img.shields.io/badge/AI%20Builder-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI%20%7C%20React-111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Laravel%20Expert-FF2D20?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -16,27 +28,29 @@
 
 ## 💫 About Me
 
-* 🔥 Backend specialist in **Laravel & CodeIgniter**
+💡 Passionate about building **scalable web & AI systems**
+
+* 🔥 Backend Specialist — **Laravel & CodeIgniter**
 * 🚀 Building **AI-powered apps & chatbots**
-* ⚡ Expert in **FastAPI + React integrations**
-* 🐳 Working with **Docker, MySQL, MongoDB**
-* 🎯 Focused on scalable & production-ready systems
+* ⚡ Full Stack — **FastAPI + React**
+* 🐳 DevOps — **Docker, MySQL, MongoDB**
+* 🎯 Focused on **performance & clean architecture**
 
 ---
 
-## 🎯 Portfolio
+## 🚀 Featured Projects
 
 ### 🤖 AI Chatbot Platform
 
 * FastAPI + Qdrant + Mistral
 * Semantic + Hybrid Search
-* Real-time API integration
+* Context-aware AI responses
 
-### 📊 Data Dashboard System
+### 📊 Data Analytics Dashboard
 
 * React + FastAPI + MySQL
-* Interactive charts & analytics
 * Role-based access system
+* Interactive charts & insights
 
 ### 📱 Mobile App (Expo / React Native)
 
@@ -46,11 +60,17 @@
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,react,python,fastapi,mysql,mongodb,docker,linux,git"/>
-</p>
+## ⚡ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,react,js,python,fastapi,mysql,mongodb,docker,linux,git" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvimal-r&layout=compact&theme=tokyonight"/>
+
+</div>
 
 ---
 
@@ -65,16 +85,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iamvimal-r&show_icons=true&theme=tokyonight"/>
-
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamvimal-r&theme=tokyonight"/>
-
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamvimal-r&theme=tokyo-night"/>
@@ -84,8 +101,8 @@
 
 ## 🧠 Current Focus
 
-* 🔍 Vector Search + AI Integration
-* ⚡ High-performance Laravel APIs
+* 🔍 Vector Search + AI Systems
+* ⚡ High-performance APIs (Laravel & FastAPI)
 * 🤖 Automation & AI tools
 
 ---
@@ -94,10 +111,10 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/YOURPROFILE">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
 
@@ -105,6 +122,6 @@
 
 <div align="center">
 
-### ⚡ "Building Scalable Web & AI Solutions with Laravel & Modern Tech"
+### ⚡ *"Building Scalable Web & AI Solutions with Modern Technologies"* 🚀
 
 </div>
