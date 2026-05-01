@@ -29,25 +29,6 @@
 
 ---
 
-## ⚡ PROJECT MATRIX
-
-<p align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvimal-r&repo=ai-chatbot&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvimal-r&repo=data-dashboard&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamvimal-r&repo=mobile-app&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
----
 
 ## 🧬 TECH DNA
 
