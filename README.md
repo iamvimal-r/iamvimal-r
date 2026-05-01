@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/iamvimal-r/main/bannernew.png]([https://raw.githubusercontent.com/iamvimal-r/iamvimal-r/main/assets/bannernew.png]
+  <img src="https://raw.githubusercontent.com/iamvimal-r/iamvimal-r/main/assets/bannernew.png" alt="Vimal Banner" />
 </p>
 
 <div align="center">
@@ -8,19 +8,17 @@
 
 ### 🚀 Full Stack Developer | AI Builder
 
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=FastAPI+%7C+React+Developer;Laravel+Backend+Expert;AI+%2B+Vector+Search+Builder;Scalable+System+Architect;Always+Learning+🚀"/>
-</p>
 
-<p align="center">
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=iamvimal-r&label=Profile%20Views&color=0e75b6&style=flat-square" />
-</p>
 
-<p align="center">
+<br/>
+
 <img src="https://img.shields.io/badge/AI%20Builder-00F7FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastAPI%20%7C%20React-111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Laravel%20Expert-FF2D20?style=for-the-badge"/>
-</p>
 
 </div>
 
@@ -28,13 +26,13 @@
 
 ## 💫 About Me
 
-💡 Passionate about building **scalable web & AI systems**
+💡 Passionate about building **scalable, production-ready Web & AI systems**
 
 * 🔥 Backend Specialist — **Laravel & CodeIgniter**
-* 🚀 Building **AI-powered apps & chatbots**
-* ⚡ Full Stack — **FastAPI + React**
+* 🤖 AI Apps — **FastAPI + LLM + Vector Search**
+* ⚡ Full Stack — **React + API Architecture**
 * 🐳 DevOps — **Docker, MySQL, MongoDB**
-* 🎯 Focused on **performance & clean architecture**
+* 🎯 Focus — **Performance, Clean Code, Scalability**
 
 ---
 
@@ -42,21 +40,31 @@
 
 ### 🤖 AI Chatbot Platform
 
-* FastAPI + Qdrant + Mistral
-* Semantic + Hybrid Search
-* Context-aware AI responses
+🚀 FastAPI + Qdrant + Mistral
+🧠 Semantic + Hybrid Search
+⚡ Context-aware AI responses
+
+👉 [Live Demo](#) | [Source Code](#)
+
+---
 
 ### 📊 Data Analytics Dashboard
 
-* React + FastAPI + MySQL
-* Role-based access system
-* Interactive charts & insights
+📊 React + FastAPI + MySQL
+🔐 Role-based access system
+📈 Interactive charts & insights
 
-### 📱 Mobile App (Expo / React Native)
+👉 [Live Demo](#) | [Source Code](#)
 
-* API-driven architecture
-* Cross-platform support
-* OTA updates
+---
+
+### 📱 Mobile App (React Native / Expo)
+
+📱 Cross-platform (Android + iOS)
+⚡ API-driven architecture
+🔄 OTA updates
+
+👉 [Live Demo](#) | [Source Code](#)
 
 ---
 
@@ -74,7 +82,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=iamvimal-r&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -122,6 +130,6 @@
 
 <div align="center">
 
-### ⚡ *"Building Scalable Web & AI Solutions with Modern Technologies"* 🚀
+### ⚡ *"Building Scalable Web & AI Systems with Modern Technologies"* 🚀
 
 </div>
