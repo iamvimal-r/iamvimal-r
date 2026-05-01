@@ -1,5 +1,5 @@
 <p align="center">
- [ <img src="[https://raw.githubusercontent.com/iamvimal-r/main/bannernew.png]([https://raw.githubusercontent.com/iamvimal-r/iamvimal-r/main/assets/bannernew.png](https://raw.githubusercontent.com/iamvimal-r/iamvimal-r/main/assets/bannernew.png))" />](https://raw.githubusercontent.com/iamvimal-r/iamvimal-r/main/assets/banner.png)
+ [ <img src="[https://raw.githubusercontent.com/iamvimal-r/main/bannernew.png]([https://raw.githubusercontent.com/iamvimal-r/iamvimal-r/main/assets/bannernew.png]
 </p>
 
 <div align="center">
