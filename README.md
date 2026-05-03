@@ -24,6 +24,21 @@
 
 ---
 
+## 🌐 Personal Portfolio
+
+<p align="center">
+  <a href="https://vrtechplanet.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀 Visit My Portfolio-00F7FF?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
+
+💻 Explore my complete work, real-world projects, and technical expertise
+⚡ Built with modern UI, performance optimization & scalable architecture
+
+🔗 **Live:** https://vrtechplanet.vercel.app
+
+---
+
 ## 💫 About Me
 
 💡 Passionate about building **scalable, production-ready Web & AI systems**
@@ -37,6 +52,16 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🌐 VR Tech Planet (Portfolio Platform)
+
+🚀 Modern developer portfolio
+⚡ High-performance frontend + scalable backend ideas
+🎯 Showcases AI, Full Stack & production-ready projects
+
+👉 [Visit Live](https://vrtechplanet.vercel.app)
+
+---
 
 ### 🤖 AI Chatbot Platform
 
@@ -75,7 +100,6 @@
 <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,react,js,python,fastapi,mysql,mongodb,docker,linux,git" />
 
 <br/><br/>
-
 
 </div>
 
@@ -121,6 +145,7 @@
 <a href="mailto:vimalfalcon123@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
